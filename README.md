@@ -1,4 +1,5 @@
 <img width="1693" height="929" alt="항공 ai" src="https://github.com/user-attachments/assets/e546613c-f588-49c5-b36e-bc1b4fa200e4" />
+
 # ✈️ AI 기반 항공 고객 만족도 예측 및 서비스 개선 분석
 
 고객 설문 데이터를 기반으로 항공 서비스 만족도를 예측하고 서비스 개선 방향을 도출한 AI 데이터 분석 프로젝트입니다.
